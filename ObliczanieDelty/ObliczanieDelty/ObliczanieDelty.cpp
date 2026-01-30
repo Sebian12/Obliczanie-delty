@@ -26,4 +26,7 @@ int main()
 	cout << "Pierwsze miejsce zerowe: " << x1 << endl;
 	cout << "Drugie miejsce zerowe: " << x2 << endl;
 
+	cout << endl;
+
+	system("PAUSE");
 }
